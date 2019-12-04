@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1475900490 source:c:\users\mikaros\documents\uaa\black2.0\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475900490 c:\users\mikaros\documents\uaa\black2.0\inicia.h
+
+1529695049 source:c:\users\mikaros\documents\uaa\black2.0\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<cstdio>
+	<string>
+	<fstream>
+
+1475904090 source:d:\black2.0\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475904090 d:\black2.0\inicia.h
+
+1529089728 source:d:\black2.0\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<cstdio>
+
+1475900490 source:c:\users\mikaros\documents\uaa\2do semestre\programacion i\proyecto\black2.0\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475900490 c:\users\mikaros\documents\uaa\2do semestre\programacion i\proyecto\black2.0\inicia.h
+
+1530060590 source:c:\users\mikaros\documents\uaa\2do semestre\programacion i\proyecto\black2.0\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<cstdio>
+	<string>
+	<cstdio>
+	<fstream>
+
+1475900490 source:d:\pc\documentos\uaa\2do semestre\programacion i\proyecto\black2.0\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475900490 d:\pc\documentos\uaa\2do semestre\programacion i\proyecto\black2.0\inicia.h
+
+1530115104 source:d:\pc\documentos\uaa\2do semestre\programacion i\proyecto\black2.0\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<cstdio>
+	<string>
+	<cstdio>
+	<fstream>
+
